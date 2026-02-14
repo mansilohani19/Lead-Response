@@ -1,0 +1,63 @@
+text,intent
+"damp patches on wall after rain",damp_issue
+"water leakage from ceiling",damp_issue
+"bedroom wall getting wet",damp_issue
+"moisture on bedroom wall after rainfall",damp_issue
+"water stains appearing on wall during rains",damp_issue
+"ceiling becomes wet whenever it rains",damp_issue
+"damp smell coming from wall",damp_issue
+"paint bubbling due to moisture",damp_issue
+"wet patches near window after rain",damp_issue
+"water seepage marks on wall",damp_issue
+"roof leakage causing damp wall",damp_issue
+"brown stains forming on ceiling",damp_issue
+"dampness spreading on internal wall",damp_issue
+"rainwater leaking through wall",damp_issue
+"moist wall after heavy rain",damp_issue
+"water marks on bedroom ceiling",damp_issue
+"dampness near electrical socket",damp_issue
+"wall feels cold and wet",damp_issue
+"fungus growing due to moisture",damp_issue
+"wall discoloration after rains",damp_issue
+
+"cracks on bedroom wall",crack_issue
+"small cracks forming near ceiling",crack_issue
+"vertical cracks on wall surface",crack_issue
+"horizontal cracks in living room wall",crack_issue
+"hairline cracks appearing on wall",crack_issue
+"deep cracks near door frame",crack_issue
+"cracks spreading over time",crack_issue
+"structural cracks on wall",crack_issue
+"wall cracking near window",crack_issue
+"cracks visible after renovation",crack_issue
+"cracks in plaster layer",crack_issue
+"wall cracks during winter season",crack_issue
+"cracks due to building settlement",crack_issue
+"old house wall cracks",crack_issue
+"ceiling cracks getting bigger",crack_issue
+
+"paint peeling in living room",paint_issue
+"paint coming off from wall",paint_issue
+"blisters forming on painted wall",paint_issue
+"paint flaking near damp area",paint_issue
+"paint discoloration on wall",paint_issue
+"old paint peeling badly",paint_issue
+"paint damage due to moisture",paint_issue
+"wall paint cracking",paint_issue
+"paint bubbles on ceiling",paint_issue
+"paint fading in bedroom",paint_issue
+"paint damage near bathroom wall",paint_issue
+"paint chipping from ceiling",paint_issue
+"paint wearing off walls",paint_issue
+"paint stains on interior walls",paint_issue
+
+"need help with home repair",general_query
+"looking for home maintenance advice",general_query
+"need guidance for house repair",general_query
+"how to fix wall issues",general_query
+"home renovation related question",general_query
+"need expert advice for house problem",general_query
+"who can inspect my house issues",general_query
+"need help with property maintenance",general_query
+"looking for repair suggestions",general_query
+"need professional home inspection",general_query
